@@ -1,0 +1,85 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2024-03-28 10:18:46
+count workspace : /Users/vs/Coding/car-detailing
+total files : 59
+total code lines : 2837
+total comment lines : 177
+total blank lines : 57
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .ts|             12|              1|              2|   0.42|
+   |           .tsx|            654|            133|             43|     23|
+   |           .svg|              3|              0|              0|   0.11|
+   |           .css|             27|              0|              4|   0.95|
+   |            .js|           1983|             39|              4|     70|
+   |          .json|             84|              2|              2|    3.0|
+   |               |              6|              1|              0|   0.21|
+   |            .md|              1|              0|              0|  0.035|
+   |           .cjs|             18|              0|              0|   0.63|
+   |          .html|             49|              1|              2|    1.7|
+   -------------------------------------------------------------------------
+.env, code is 4, comment is 1, blank is 0.
+.eslintrc.cjs, code is 18, comment is 0, blank is 0.
+.gitignore, code is 2, comment is 0, blank is 0.
+bun.lockb, it is a binary file.
+dist/a.jpg, it is a binary file.
+dist/accord.webp, it is a binary file.
+dist/assets/index-Bji_uxPo.css, code is 1, comment is 0, blank is 0.
+dist/assets/index-xO1U61pM.js, code is 1948, comment is 38, blank is 0.
+dist/bg.jpg, it is a binary file.
+dist/carousel/1.png, it is a binary file.
+dist/carousel/2.png, it is a binary file.
+dist/carousel/3.png, it is a binary file.
+dist/carousel/4.png, it is a binary file.
+dist/farhi.jpeg, it is a binary file.
+dist/gt3rs.jpg, it is a binary file.
+dist/guy.jpg, it is a binary file.
+dist/index.html, code is 20, comment is 0, blank is 0.
+dist/videos/1.mp4, it is a binary file.
+dist/videos/2.mp4, it is a binary file.
+dist/videos/3.mp4, it is a binary file.
+dist/videos/4.mp4, it is a binary file.
+dist/videos/5.mp4, it is a binary file.
+dist/vite.svg, code is 1, comment is 0, blank is 0.
+index.html, code is 29, comment is 1, blank is 2.
+index.ts, code is 1, comment is 0, blank is 0.
+package.json, code is 52, comment is 0, blank is 0.
+postcss.config.js, code is 6, comment is 0, blank is 0.
+public/a.jpg, it is a binary file.
+public/accord.webp, it is a binary file.
+public/b.png, it is a binary file.
+public/bg.jpg, it is a binary file.
+public/carousel/1.png, it is a binary file.
+public/carousel/2.png, it is a binary file.
+public/carousel/3.png, it is a binary file.
+public/carousel/4.png, it is a binary file.
+public/farhi.jpeg, it is a binary file.
+public/gt3rs.jpg, it is a binary file.
+public/guy.jpg, it is a binary file.
+public/olga.jpeg, it is a binary file.
+public/videos/1.mp4, it is a binary file.
+public/videos/2.mp4, it is a binary file.
+public/videos/3.mp4, it is a binary file.
+public/videos/4.mp4, it is a binary file.
+public/videos/5.mp4, it is a binary file.
+public/vite.svg, code is 1, comment is 0, blank is 0.
+README.md, code is 1, comment is 0, blank is 0.
+src/App.tsx, code is 448, comment is 102, blank is 36.
+src/assets/react.svg, code is 1, comment is 0, blank is 0.
+src/Beams.tsx, code is 130, comment is 0, blank is 4.
+src/Carousel.tsx, code is 19, comment is 31, blank is 1.
+src/index.css, code is 26, comment is 0, blank is 4.
+src/main.tsx, code is 11, comment is 0, blank is 0.
+src/Testimonials.tsx, code is 46, comment is 0, blank is 2.
+src/vite-env.d.ts, code is 0, comment is 1, blank is 0.
+tailwind.config.js, code is 29, comment is 1, blank is 4.
+tsconfig.json, code is 21, comment is 2, blank is 2.
+tsconfig.node.json, code is 11, comment is 0, blank is 0.
+utils/cn.ts, code is 5, comment is 0, blank is 1.
+vite.config.ts, code is 6, comment is 0, blank is 1.
+===============================================================================

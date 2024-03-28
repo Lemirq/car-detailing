@@ -1,0 +1,456 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/Users/vs/Coding/car-detailing",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2024-03-28 10:18:46",
+            "filesum": 59,
+            "codesum": 2837,
+            "commentsum": 177,
+            "blanksum": 57,
+            "statistics": {
+                ".ts": {
+                    "code": 12,
+                    "comment": 1,
+                    "blank": 2
+                },
+                ".tsx": {
+                    "code": 654,
+                    "comment": 133,
+                    "blank": 43
+                },
+                ".svg": {
+                    "code": 3,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".css": {
+                    "code": 27,
+                    "comment": 0,
+                    "blank": 4
+                },
+                ".js": {
+                    "code": 1983,
+                    "comment": 39,
+                    "blank": 4
+                },
+                ".json": {
+                    "code": 84,
+                    "comment": 2,
+                    "blank": 2
+                },
+                "": {
+                    "code": 6,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".cjs": {
+                    "code": 18,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".html": {
+                    "code": 49,
+                    "comment": 1,
+                    "blank": 2
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": ".env"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": ".eslintrc.cjs"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "filename": "bun.lockb",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/a.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/accord.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist/assets/index-Bji_uxPo.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 1948,
+                    "comment": 38,
+                    "filename": "dist/assets/index-xO1U61pM.js"
+                },
+                {
+                    "filename": "dist/bg.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/carousel/1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/carousel/2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/carousel/3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/carousel/4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/farhi.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/gt3rs.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/guy.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "dist/index.html"
+                },
+                {
+                    "filename": "dist/videos/1.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/videos/2.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/videos/3.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/videos/4.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "dist/videos/5.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dist/vite.svg"
+                },
+                {
+                    "blank": 2,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "index.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "postcss.config.js"
+                },
+                {
+                    "filename": "public/a.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/accord.webp",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/b.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/bg.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/carousel/1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/carousel/2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/carousel/3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/carousel/4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/farhi.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/gt3rs.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/guy.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/olga.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/videos/1.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/videos/2.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/videos/3.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/videos/4.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/videos/5.mp4",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "public/vite.svg"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 36,
+                    "code": 448,
+                    "comment": 102,
+                    "filename": "src/App.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src/assets/react.svg"
+                },
+                {
+                    "blank": 4,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "src/Beams.tsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 31,
+                    "filename": "src/Carousel.tsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "src/index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src/main.tsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "src/Testimonials.tsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "src/vite-env.d.ts"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "tailwind.config.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 2,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "tsconfig.node.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "utils/cn.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "vite.config.ts"
+                }
+            ]
+        }
+    ]
+}
